@@ -24,6 +24,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosmarcano2704@gmail.com)
 
 
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=carlosm27&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosm27&hide=C,C%2B%2B,html,CSS,JavaScript,Assembly,Scilab,PHP&langs_count=8&layout=compact" />
+
 <!---
 carlosm27/carlosm27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
