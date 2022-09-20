@@ -1,6 +1,6 @@
 ### About Me
 - 👋 Hi, I’m Carlos Armando Marcano Vargas, I'm a backend developer from Venezuela.
-- I develop using Python, and Go, and also I write about in Hashnode, Medium and Dev.to
+- I develop using Python, and Go, and also I write about programming in Hashnode, Medium and Dev.to
 
 
 ### Tech Stack
