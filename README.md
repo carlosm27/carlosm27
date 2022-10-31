@@ -20,7 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 💫 [How to build an image converter service with FastAPI and deploy it on Deta | Python.](https://carlosmv.hashnode.dev/how-to-build-an-image-converter-service-with-fastapi-and-deploy-it-on-deta-python)
+ - 🚀 [How to deploy a Go app on Railway | Go.](https://carlosmv.hashnode.dev/how-to-deploy-a-go-app-on-railway-go)
+ - 🚀 [Building an authentication app with Django Authentication System | Python.](https://carlosmv.hashnode.dev/building-an-authentication-app-with-django-authentication-system-python)
+ - 💫 [Deploying an Axum URL Shortener on Shuttle |Rust.](https://carlosmv.hashnode.dev/deploying-an-axum-url-shortener-on-shuttle-rust)
+ - 💯 [Creating a REST API with Axum + Sqlx | Rust.](https://carlosmv.hashnode.dev/creating-a-rest-api-with-axum-sqlx-rust)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
