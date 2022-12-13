@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Robyn, a web framework for Python, built it on top of Rust.](https://carlosmv.hashnode.dev/robyn-a-web-framework-for-python-built-it-on-top-of-rust)
+ - 💫 [JWT Authentication with Blacksheep and Auth0 | Python.](https://carlosmv.hashnode.dev/jwt-authentication-with-blacksheep-and-auth0-python)
+ - 🚀 [Robyn, a web framework for Python, built it on top of Rust.](https://carlosmv.hashnode.dev/robyn-a-web-framework-for-python-built-it-on-top-of-rust)
  - 🚀 [JWT Authentication with Gin | Go](https://carlosmv.hashnode.dev/jwt-authentication-with-gin-go)
- - 🚀 [How to build an image converter service with FastAPI and deploy it on Deta | Python.](https://carlosmv.hashnode.dev/how-to-build-an-image-converter-service-with-fastapi-and-deploy-it-on-deta-python)
- - 💫 [How to deploy a Go app on Railway | Go.](https://carlosmv.hashnode.dev/how-to-deploy-a-go-app-on-railway-go)
- - 💯 [Building an authentication app with Django Authentication System | Python.](https://carlosmv.hashnode.dev/building-an-authentication-app-with-django-authentication-system-python)<!-- BLOGPOSTS:END -->
+ - 💫 [How to build an image converter service with FastAPI and deploy it on Deta | Python.](https://carlosmv.hashnode.dev/how-to-build-an-image-converter-service-with-fastapi-and-deploy-it-on-deta-python)
+ - 💯 [How to deploy a Go app on Railway | Go.](https://carlosmv.hashnode.dev/how-to-deploy-a-go-app-on-railway-go)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
