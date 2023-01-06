@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Dev Retro 2022: A year of a lot of learning.](https://carlosmv.hashnode.dev/dev-retro-2022-a-year-of-a-lot-of-learning)
+ - 💫 [Adding logging and tracing to an Axum App | Rust.](https://carlosmv.hashnode.dev/adding-logging-and-tracing-to-an-axum-app-rust)
+ - 🚀 [Dev Retro 2022: A year of a lot of learning.](https://carlosmv.hashnode.dev/dev-retro-2022-a-year-of-a-lot-of-learning)
  - 🚀 [Building a Telegram bot with Rust.](https://carlosmv.hashnode.dev/building-a-telegram-bot-with-rust)
- - 🚀 [JWT Authentication with Blacksheep and Auth0 | Python.](https://carlosmv.hashnode.dev/jwt-authentication-with-blacksheep-and-auth0-python)
- - 💫 [Robyn, a web framework for Python, built it on top of Rust.](https://carlosmv.hashnode.dev/robyn-a-web-framework-for-python-built-it-on-top-of-rust)
- - 💯 [JWT Authentication with Gin | Go](https://carlosmv.hashnode.dev/jwt-authentication-with-gin-go)<!-- BLOGPOSTS:END -->
+ - 💫 [JWT Authentication with Blacksheep and Auth0 | Python.](https://carlosmv.hashnode.dev/jwt-authentication-with-blacksheep-and-auth0-python)
+ - 💯 [Robyn, a web framework for Python, built it on top of Rust.](https://carlosmv.hashnode.dev/robyn-a-web-framework-for-python-built-it-on-top-of-rust)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
