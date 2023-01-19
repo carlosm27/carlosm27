@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [What is Docker?](https://carlosmv.hashnode.dev/what-is-docker)
+ - 💫 [Building a server with Oak | Deno.](https://carlosmv.hashnode.dev/building-a-server-with-oak-deno)
+ - 🚀 [What is Docker?](https://carlosmv.hashnode.dev/what-is-docker)
  - 🚀 [Adding logging and tracing to an Axum App | Rust.](https://carlosmv.hashnode.dev/adding-logging-and-tracing-to-an-axum-app-rust)
- - 🚀 [Dev Retro 2022: A year of a lot of learning.](https://carlosmv.hashnode.dev/dev-retro-2022-a-year-of-a-lot-of-learning)
- - 💫 [Building a Telegram bot with Rust.](https://carlosmv.hashnode.dev/building-a-telegram-bot-with-rust)
- - 💯 [JWT Authentication with Blacksheep and Auth0 | Python.](https://carlosmv.hashnode.dev/jwt-authentication-with-blacksheep-and-auth0-python)<!-- BLOGPOSTS:END -->
+ - 💫 [Dev Retro 2022: A year of a lot of learning.](https://carlosmv.hashnode.dev/dev-retro-2022-a-year-of-a-lot-of-learning)
+ - 💯 [Building a Telegram bot with Rust.](https://carlosmv.hashnode.dev/building-a-telegram-bot-with-rust)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
