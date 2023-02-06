@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Dockerizing a Django Application | Python.](https://carlosmv.hashnode.dev/dockerizing-a-django-application-python)
+ - 💫 [Dockerizing a Django Application with Postgres as database | Compose](https://carlosmv.hashnode.dev/dockerizing-a-django-application-with-postgres-as-database-compose)
+ - 🚀 [Dockerizing a Django Application | Python.](https://carlosmv.hashnode.dev/dockerizing-a-django-application-python)
  - 🚀 [Building a server with Oak | Deno.](https://carlosmv.hashnode.dev/building-a-server-with-oak-deno)
- - 🚀 [What is Docker?](https://carlosmv.hashnode.dev/what-is-docker)
- - 💫 [Adding logging and tracing to an Axum App | Rust.](https://carlosmv.hashnode.dev/adding-logging-and-tracing-to-an-axum-app-rust)
- - 💯 [Dev Retro 2022: A year of a lot of learning.](https://carlosmv.hashnode.dev/dev-retro-2022-a-year-of-a-lot-of-learning)<!-- BLOGPOSTS:END -->
+ - 💫 [What is Docker?](https://carlosmv.hashnode.dev/what-is-docker)
+ - 💯 [Adding logging and tracing to an Axum App | Rust.](https://carlosmv.hashnode.dev/adding-logging-and-tracing-to-an-axum-app-rust)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
