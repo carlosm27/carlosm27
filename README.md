@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Building a Fast REST API with Robyn and Cockroach DB | Python](https://carlosmv.hashnode.dev/building-a-fast-rest-api-with-robyn-and-cockroach-db-python)
+ - 💫 [Building a mobile app with Ionic Framework and Rails](https://carlosmv.hashnode.dev/building-a-mobile-app-with-ionic-framework-and-rails)
+ - 🚀 [Building a Fast REST API with Robyn and Cockroach DB | Python](https://carlosmv.hashnode.dev/building-a-fast-rest-api-with-robyn-and-cockroach-db-python)
  - 🚀 [Building a REST API with Robyn and Postgres | Python](https://carlosmv.hashnode.dev/building-a-rest-api-with-robyn-and-postgres-python)
- - 🚀 [Running containers with Podman.](https://carlosmv.hashnode.dev/running-containers-with-podman)
- - 💫 [Building containers with Buildah.](https://carlosmv.hashnode.dev/building-containers-with-buildah)
- - 💯 [Dockerizing a Django Application with Postgres as database | Compose](https://carlosmv.hashnode.dev/dockerizing-a-django-application-with-postgres-as-database-compose)<!-- BLOGPOSTS:END -->
+ - 💫 [Running containers with Podman.](https://carlosmv.hashnode.dev/running-containers-with-podman)
+ - 💯 [Building containers with Buildah.](https://carlosmv.hashnode.dev/building-containers-with-buildah)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
