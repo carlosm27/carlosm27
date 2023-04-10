@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Getting Started with Hanami-API | Ruby](https://carlosmv.hashnode.dev/getting-started-with-hanami-api-ruby)
+ - 💫 [Monitoring Your Go Application with Prometheus and Grafana: A Step-by-Step Guide](https://carlosmv.hashnode.dev/monitoring-your-go-application-with-prometheus-and-grafana-a-step-by-step-guide)
+ - 🚀 [Getting Started with Hanami-API | Ruby](https://carlosmv.hashnode.dev/getting-started-with-hanami-api-ruby)
  - 🚀 [How to Monitor Your Axum App with Prometheus and Grafana.](https://carlosmv.hashnode.dev/how-to-monitor-your-axum-app-with-prometheus-and-grafana)
- - 🚀 [Building a mobile app with Ionic Framework and Rails](https://carlosmv.hashnode.dev/building-a-mobile-app-with-ionic-framework-and-rails)
- - 💫 [Building a Fast REST API with Robyn and Cockroach DB | Python](https://carlosmv.hashnode.dev/building-a-fast-rest-api-with-robyn-and-cockroach-db-python)
- - 💯 [Building a REST API with Robyn and Postgres | Python](https://carlosmv.hashnode.dev/building-a-rest-api-with-robyn-and-postgres-python)<!-- BLOGPOSTS:END -->
+ - 💫 [Building a mobile app with Ionic Framework and Rails](https://carlosmv.hashnode.dev/building-a-mobile-app-with-ionic-framework-and-rails)
+ - 💯 [Building a Fast REST API with Robyn and Cockroach DB | Python](https://carlosmv.hashnode.dev/building-a-fast-rest-api-with-robyn-and-cockroach-db-python)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
