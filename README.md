@@ -20,7 +20,7 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Building a Mobile App with Ionic Framework and Rails](https://carlosmv.hashnode.dev/building-a-mobile-app-with-ionic-framework-and-rails-1)
+ - 💫 [How to Build a Mobile App with Ionic Framework and Rails: A Step-by-Step Guide](https://carlosmv.hashnode.dev/how-to-build-a-mobile-app-with-ionic-framework-and-rails-a-step-by-step-guide)
  - 🚀 [Building a Proxy Server in Rust with Axum | Rust.](https://carlosmv.hashnode.dev/building-a-proxy-server-in-rust-with-axum-rust)
  - 🚀 [Monitoring Your Go Application with Prometheus and Grafana: A Step-by-Step Guide](https://carlosmv.hashnode.dev/monitoring-your-go-application-with-prometheus-and-grafana-a-step-by-step-guide)
  - 💫 [Getting Started with Hanami-API | Ruby](https://carlosmv.hashnode.dev/getting-started-with-hanami-api-ruby)
