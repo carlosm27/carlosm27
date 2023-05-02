@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [How to Build a Mobile App with Ionic Framework and Rails: A Step-by-Step Guide](https://carlosmv.hashnode.dev/how-to-build-a-mobile-app-with-ionic-framework-and-rails-a-step-by-step-guide)
+ - 💫 [Building a Full Stack Web App With Rails and React](https://carlosmv.hashnode.dev/building-a-full-stack-web-app-with-rails-and-react)
+ - 🚀 [How to Build a Mobile App with Ionic Framework and Rails: A Step-by-Step Guide](https://carlosmv.hashnode.dev/how-to-build-a-mobile-app-with-ionic-framework-and-rails-a-step-by-step-guide)
  - 🚀 [Building a Proxy Server in Rust with Axum | Rust.](https://carlosmv.hashnode.dev/building-a-proxy-server-in-rust-with-axum-rust)
- - 🚀 [Monitoring Your Go Application with Prometheus and Grafana: A Step-by-Step Guide](https://carlosmv.hashnode.dev/monitoring-your-go-application-with-prometheus-and-grafana-a-step-by-step-guide)
- - 💫 [Getting Started with Hanami-API | Ruby](https://carlosmv.hashnode.dev/getting-started-with-hanami-api-ruby)
- - 💯 [How to Monitor Your Axum App with Prometheus and Grafana.](https://carlosmv.hashnode.dev/how-to-monitor-your-axum-app-with-prometheus-and-grafana)<!-- BLOGPOSTS:END -->
+ - 💫 [Monitoring Your Go Application with Prometheus and Grafana: A Step-by-Step Guide](https://carlosmv.hashnode.dev/monitoring-your-go-application-with-prometheus-and-grafana-a-step-by-step-guide)
+ - 💯 [Getting Started with Hanami-API | Ruby](https://carlosmv.hashnode.dev/getting-started-with-hanami-api-ruby)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
