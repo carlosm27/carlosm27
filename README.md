@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Step-by-Step Guide to Adding Logging to an Actix Web Application](https://carlosmv.hashnode.dev/step-by-step-guide-to-adding-logging-to-an-actix-web-application)
+ - 💫 [Why Kubernetes Matters: Learn Its Key Benefits and Real-World Use Cases](https://carlosmv.hashnode.dev/why-kubernetes-matters-learn-its-key-benefits-and-real-world-use-cases)
+ - 🚀 [Step-by-Step Guide to Adding Logging to an Actix Web Application](https://carlosmv.hashnode.dev/step-by-step-guide-to-adding-logging-to-an-actix-web-application)
  - 🚀 [Building a Full Stack Web App With Rails and React](https://carlosmv.hashnode.dev/building-a-full-stack-web-app-with-rails-and-react)
- - 🚀 [How to Build a Mobile App with Ionic Framework and Rails: A Step-by-Step Guide](https://carlosmv.hashnode.dev/how-to-build-a-mobile-app-with-ionic-framework-and-rails-a-step-by-step-guide)
- - 💫 [Building a Proxy Server in Rust with Axum | Rust.](https://carlosmv.hashnode.dev/building-a-proxy-server-in-rust-with-axum-rust)
- - 💯 [Monitoring Your Go Application with Prometheus and Grafana: A Step-by-Step Guide](https://carlosmv.hashnode.dev/monitoring-your-go-application-with-prometheus-and-grafana-a-step-by-step-guide)<!-- BLOGPOSTS:END -->
+ - 💫 [How to Build a Mobile App with Ionic Framework and Rails: A Step-by-Step Guide](https://carlosmv.hashnode.dev/how-to-build-a-mobile-app-with-ionic-framework-and-rails-a-step-by-step-guide)
+ - 💯 [Building a Proxy Server in Rust with Axum | Rust.](https://carlosmv.hashnode.dev/building-a-proxy-server-in-rust-with-axum-rust)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
