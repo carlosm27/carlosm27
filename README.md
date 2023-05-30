@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Building a CRUD Mobile App with Ionic Framework and React](https://carlosmv.hashnode.dev/building-a-crud-mobile-app-with-ionic-framework-and-react)
+ - 💫 [9 Open Source Reverse Proxies You Need to Know](https://carlosmv.hashnode.dev/9-open-source-reverse-proxies-you-need-to-know)
+ - 🚀 [Building a CRUD Mobile App with Ionic Framework and React](https://carlosmv.hashnode.dev/building-a-crud-mobile-app-with-ionic-framework-and-react)
  - 🚀 [How to Build a Server with Hanami::API and Postgres](https://carlosmv.hashnode.dev/how-to-build-a-server-with-hanamiapi-and-postgres)
- - 🚀 [Why Kubernetes Matters: Learn Its Key Benefits and Real-World Use Cases](https://carlosmv.hashnode.dev/why-kubernetes-matters-learn-its-key-benefits-and-real-world-use-cases)
- - 💫 [Step-by-Step Guide to Adding Logging to an Actix Web Application](https://carlosmv.hashnode.dev/step-by-step-guide-to-adding-logging-to-an-actix-web-application)
- - 💯 [Building a Full Stack Web App With Rails and React](https://carlosmv.hashnode.dev/building-a-full-stack-web-app-with-rails-and-react)<!-- BLOGPOSTS:END -->
+ - 💫 [Why Kubernetes Matters: Learn Its Key Benefits and Real-World Use Cases](https://carlosmv.hashnode.dev/why-kubernetes-matters-learn-its-key-benefits-and-real-world-use-cases)
+ - 💯 [Step-by-Step Guide to Adding Logging to an Actix Web Application](https://carlosmv.hashnode.dev/step-by-step-guide-to-adding-logging-to-an-actix-web-application)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
