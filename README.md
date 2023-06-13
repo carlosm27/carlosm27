@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [How to Build a RSS Reader with Hanami Framework](https://carlosmv.hashnode.dev/how-to-build-a-rss-reader-with-hanami-framework)
+ - 💫 [How to Build a Server with Hanami and CockroachDB | Ruby](https://carlosmv.hashnode.dev/how-to-build-a-server-with-hanami-and-cockroachdb-ruby)
+ - 🚀 [How to Build a RSS Reader with Hanami Framework](https://carlosmv.hashnode.dev/how-to-build-a-rss-reader-with-hanami-framework)
  - 🚀 [9 Open Source Reverse Proxies You Need to Know](https://carlosmv.hashnode.dev/9-open-source-reverse-proxies-you-need-to-know)
- - 🚀 [Building a CRUD Mobile App with Ionic Framework and React](https://carlosmv.hashnode.dev/building-a-crud-mobile-app-with-ionic-framework-and-react)
- - 💫 [How to Build a Server with Hanami::API and Postgres](https://carlosmv.hashnode.dev/how-to-build-a-server-with-hanamiapi-and-postgres)
- - 💯 [Why Kubernetes Matters: Learn Its Key Benefits and Real-World Use Cases](https://carlosmv.hashnode.dev/why-kubernetes-matters-learn-its-key-benefits-and-real-world-use-cases)<!-- BLOGPOSTS:END -->
+ - 💫 [Building a CRUD Mobile App with Ionic Framework and React](https://carlosmv.hashnode.dev/building-a-crud-mobile-app-with-ionic-framework-and-react)
+ - 💯 [How to Build a Server with Hanami::API and Postgres](https://carlosmv.hashnode.dev/how-to-build-a-server-with-hanamiapi-and-postgres)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
