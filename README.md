@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Dockerazing a Robyn App with Postgres as Database | Compose](https://carlosmv.hashnode.dev/dockerazing-a-robyn-app-with-postgres-as-database-compose)
+ - 💫 [Messaging Made Easy: A  List of Message Brokers and Event Streaming Platforms](https://carlosmv.hashnode.dev/messaging-made-easy-a-list-of-message-brokers-and-event-streaming-platforms)
+ - 🚀 [Dockerazing a Robyn App with Postgres as Database | Compose](https://carlosmv.hashnode.dev/dockerazing-a-robyn-app-with-postgres-as-database-compose)
  - 🚀 [Dockerizing a Robyn App | Python](https://carlosmv.hashnode.dev/dockerizing-a-robyn-app-python)
- - 🚀 [Optimize Your Sales Forecasts with These ML Algorithms](https://carlosmv.hashnode.dev/optimize-your-sales-forecasts-with-these-ml-algorithms)
- - 💫 [How to Build a Server with Hanami and CockroachDB | Ruby](https://carlosmv.hashnode.dev/how-to-build-a-server-with-hanami-and-cockroachdb-ruby)
- - 💯 [How to Build a RSS Reader with Hanami Framework](https://carlosmv.hashnode.dev/how-to-build-a-rss-reader-with-hanami-framework)<!-- BLOGPOSTS:END -->
+ - 💫 [Optimize Your Sales Forecasts with These ML Algorithms](https://carlosmv.hashnode.dev/optimize-your-sales-forecasts-with-these-ml-algorithms)
+ - 💯 [How to Build a Server with Hanami and CockroachDB | Ruby](https://carlosmv.hashnode.dev/how-to-build-a-server-with-hanami-and-cockroachdb-ruby)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
