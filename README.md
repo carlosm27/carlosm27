@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Messaging Made Easy: A  List of Message Brokers and Event Streaming Platforms](https://carlosmv.hashnode.dev/messaging-made-easy-a-list-of-message-brokers-and-event-streaming-platforms)
+ - 💫 [How to Send Logs to a Telegram Bot Using RabbitMQ and FastAPI](https://carlosmv.hashnode.dev/how-to-send-logs-to-a-telegram-bot-using-rabbitmq-and-fastapi)
+ - 🚀 [Messaging Made Easy: A  List of Message Brokers and Event Streaming Platforms](https://carlosmv.hashnode.dev/messaging-made-easy-a-list-of-message-brokers-and-event-streaming-platforms)
  - 🚀 [Dockerazing a Robyn App with Postgres as Database | Compose](https://carlosmv.hashnode.dev/dockerazing-a-robyn-app-with-postgres-as-database-compose)
- - 🚀 [Dockerizing a Robyn App | Python](https://carlosmv.hashnode.dev/dockerizing-a-robyn-app-python)
- - 💫 [Optimize Your Sales Forecasts with These ML Algorithms](https://carlosmv.hashnode.dev/optimize-your-sales-forecasts-with-these-ml-algorithms)
- - 💯 [How to Build a Server with Hanami and CockroachDB | Ruby](https://carlosmv.hashnode.dev/how-to-build-a-server-with-hanami-and-cockroachdb-ruby)<!-- BLOGPOSTS:END -->
+ - 💫 [Dockerizing a Robyn App | Python](https://carlosmv.hashnode.dev/dockerizing-a-robyn-app-python)
+ - 💯 [Optimize Your Sales Forecasts with These ML Algorithms](https://carlosmv.hashnode.dev/optimize-your-sales-forecasts-with-these-ml-algorithms)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
