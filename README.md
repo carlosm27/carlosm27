@@ -20,7 +20,7 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [How to Build a  Application Monitoring System with FastAPI and RabbitMQ | Python](https://carlosmv.hashnode.dev/how-to-build-a-application-monitoring-system-with-fastapi-and-rabbitmq-python)
+ - 💫 [How to Build an  Application Monitoring System with FastAPI and RabbitMQ | Python](https://carlosmv.hashnode.dev/how-to-build-an-application-monitoring-system-with-fastapi-and-rabbitmq-python)
  - 🚀 [How to Integrate Apache Pulsar with FastAPI](https://carlosmv.hashnode.dev/how-to-integrate-apache-pulsar-with-fastapi)
  - 🚀 [How to Send Logs to a Telegram Bot Using RabbitMQ and FastAPI](https://carlosmv.hashnode.dev/how-to-send-logs-to-a-telegram-bot-using-rabbitmq-and-fastapi)
  - 💫 [Messaging Made Easy: A  List of Message Brokers and Event Streaming Platforms](https://carlosmv.hashnode.dev/messaging-made-easy-a-list-of-message-brokers-and-event-streaming-platforms)
