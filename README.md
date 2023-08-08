@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Sending Blog&#39;s updates to Telegram with Express](https://carlosmv.hashnode.dev/sending-blogs-updates-to-telegram-with-express)
+ - 💫 [Getting started with Ktor | Kotlin.](https://carlosmv.hashnode.dev/getting-started-with-ktor-kotlin)
+ - 🚀 [Sending Blog&#39;s updates to Telegram with Express](https://carlosmv.hashnode.dev/sending-blogs-updates-to-telegram-with-express)
  - 🚀 [How to Build an  Application Monitoring System with FastAPI and RabbitMQ | Python](https://carlosmv.hashnode.dev/how-to-build-an-application-monitoring-system-with-fastapi-and-rabbitmq-python)
- - 🚀 [How to Integrate Apache Pulsar with FastAPI](https://carlosmv.hashnode.dev/how-to-integrate-apache-pulsar-with-fastapi)
- - 💫 [How to Send Logs to a Telegram Bot Using RabbitMQ and FastAPI](https://carlosmv.hashnode.dev/how-to-send-logs-to-a-telegram-bot-using-rabbitmq-and-fastapi)
- - 💯 [Messaging Made Easy: A  List of Message Brokers and Event Streaming Platforms](https://carlosmv.hashnode.dev/messaging-made-easy-a-list-of-message-brokers-and-event-streaming-platforms)<!-- BLOGPOSTS:END -->
+ - 💫 [How to Integrate Apache Pulsar with FastAPI](https://carlosmv.hashnode.dev/how-to-integrate-apache-pulsar-with-fastapi)
+ - 💯 [How to Send Logs to a Telegram Bot Using RabbitMQ and FastAPI](https://carlosmv.hashnode.dev/how-to-send-logs-to-a-telegram-bot-using-rabbitmq-and-fastapi)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
