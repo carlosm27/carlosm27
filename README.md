@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Integrating Robyn with RabbitMQ | Python](https://carlosmv.hashnode.dev/integrating-robyn-with-rabbitmq-python)
+ - 💫 [Adding Prometheus to a FastAPI app | Python](https://carlosmv.hashnode.dev/adding-prometheus-to-a-fastapi-app-python)
+ - 🚀 [Integrating Robyn with RabbitMQ | Python](https://carlosmv.hashnode.dev/integrating-robyn-with-rabbitmq-python)
  - 🚀 [Getting started with Ktor | Kotlin.](https://carlosmv.hashnode.dev/getting-started-with-ktor-kotlin)
- - 🚀 [Sending Blog&#39;s updates to Telegram with Express](https://carlosmv.hashnode.dev/sending-blogs-updates-to-telegram-with-express)
- - 💫 [How to Build an  Application Monitoring System with FastAPI and RabbitMQ | Python](https://carlosmv.hashnode.dev/how-to-build-an-application-monitoring-system-with-fastapi-and-rabbitmq-python)
- - 💯 [How to Integrate Apache Pulsar with FastAPI](https://carlosmv.hashnode.dev/how-to-integrate-apache-pulsar-with-fastapi)<!-- BLOGPOSTS:END -->
+ - 💫 [Sending Blog&#39;s updates to Telegram with Express](https://carlosmv.hashnode.dev/sending-blogs-updates-to-telegram-with-express)
+ - 💯 [How to Build an  Application Monitoring System with FastAPI and RabbitMQ | Python](https://carlosmv.hashnode.dev/how-to-build-an-application-monitoring-system-with-fastapi-and-rabbitmq-python)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
