@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Building a Logging Middleware For A Go Server](https://carlosmv.hashnode.dev/building-a-logging-middleware-for-a-go-server)
+ - 💫 [How to Schedule Tasks in Go](https://carlosmv.hashnode.dev/how-to-schedule-tasks-in-go)
+ - 🚀 [Building a Logging Middleware For A Go Server](https://carlosmv.hashnode.dev/building-a-logging-middleware-for-a-go-server)
  - 🚀 [Exploring Slog package: The new log library of The Go Programming Language](https://carlosmv.hashnode.dev/exploring-slog-package-the-new-log-library-of-the-go-programming-language)
- - 🚀 [Adding Prometheus to a FastAPI app | Python](https://carlosmv.hashnode.dev/adding-prometheus-to-a-fastapi-app-python)
- - 💫 [Integrating Robyn with RabbitMQ | Python](https://carlosmv.hashnode.dev/integrating-robyn-with-rabbitmq-python)
- - 💯 [Getting started with Ktor | Kotlin.](https://carlosmv.hashnode.dev/getting-started-with-ktor-kotlin)<!-- BLOGPOSTS:END -->
+ - 💫 [Adding Prometheus to a FastAPI app | Python](https://carlosmv.hashnode.dev/adding-prometheus-to-a-fastapi-app-python)
+ - 💯 [Integrating Robyn with RabbitMQ | Python](https://carlosmv.hashnode.dev/integrating-robyn-with-rabbitmq-python)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
