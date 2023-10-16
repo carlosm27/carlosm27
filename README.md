@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Building a 2D Platformer Game with Godot. Part 3](https://carlosmv.hashnode.dev/building-a-2d-platformer-game-with-godot-part-3)
+ - 💫 [How To Build a CLI Tool To Show Ports Available | Rust](https://carlosmv.hashnode.dev/how-to-build-a-cli-tool-to-show-ports-available-rust)
+ - 🚀 [Building a 2D Platformer Game with Godot. Part 3](https://carlosmv.hashnode.dev/building-a-2d-platformer-game-with-godot-part-3)
  - 🚀 [Ruff: A Python Linter built with Rust](https://carlosmv.hashnode.dev/ruff-a-python-linter-built-with-rust)
- - 🚀 [Building a 2D Platformer Game with Godot. Part 2](https://carlosmv.hashnode.dev/building-a-2d-platformer-game-with-godot-part-2)
- - 💫 [Building a 2D Platformer Game with Godot. Part 1](https://carlosmv.hashnode.dev/building-a-2d-platformer-game-with-godot-part-1)
- - 💯 [How to Schedule Tasks in Go](https://carlosmv.hashnode.dev/how-to-schedule-tasks-in-go)<!-- BLOGPOSTS:END -->
+ - 💫 [Building a 2D Platformer Game with Godot. Part 2](https://carlosmv.hashnode.dev/building-a-2d-platformer-game-with-godot-part-2)
+ - 💯 [Building a 2D Platformer Game with Godot. Part 1](https://carlosmv.hashnode.dev/building-a-2d-platformer-game-with-godot-part-1)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
