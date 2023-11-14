@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Building a Simple Rate Limiter Middleware in Go using Gin](https://carlosmv.hashnode.dev/building-a-simple-rate-limiter-middleware-in-go-using-gin)
+ - 💫 [Go RabbitMQ: Integrating RabbitMQ into Your Go Applications](https://carlosmv.hashnode.dev/go-rabbitmq-integrating-rabbitmq-into-your-go-applications)
+ - 🚀 [Building a Simple Rate Limiter Middleware in Go using Gin](https://carlosmv.hashnode.dev/building-a-simple-rate-limiter-middleware-in-go-using-gin)
  - 🚀 [Seven Alternatives To FastAPI To Explore and Contribute To | Python](https://carlosmv.hashnode.dev/seven-alternatives-to-fastapi-to-explore-and-contribute-to-python)
- - 🚀 [Building a HTTP Client with Reqwest | Rust](https://carlosmv.hashnode.dev/building-a-http-client-with-reqwest-rust)
- - 💫 [How To Build a CLI Tool To Show Ports Available | Rust](https://carlosmv.hashnode.dev/how-to-build-a-cli-tool-to-show-ports-available-rust)
- - 💯 [Building a 2D Platformer Game with Godot. Part 3](https://carlosmv.hashnode.dev/building-a-2d-platformer-game-with-godot-part-3)<!-- BLOGPOSTS:END -->
+ - 💫 [Building a HTTP Client with Reqwest | Rust](https://carlosmv.hashnode.dev/building-a-http-client-with-reqwest-rust)
+ - 💯 [How To Build a CLI Tool To Show Ports Available | Rust](https://carlosmv.hashnode.dev/how-to-build-a-cli-tool-to-show-ports-available-rust)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
