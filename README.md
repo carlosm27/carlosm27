@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Adding A Rate Limiter Middleware To A Robyn Server | Python](https://carlosmv.hashnode.dev/adding-a-rate-limiter-middleware-to-a-robyn-server-python)
+ - 💫 [2023 Retrospective: A Year Of Personal Growth](https://carlosmv.hashnode.dev/2023-retrospective-a-year-of-personal-growth)
+ - 🚀 [Adding A Rate Limiter Middleware To A Robyn Server | Python](https://carlosmv.hashnode.dev/adding-a-rate-limiter-middleware-to-a-robyn-server-python)
  - 🚀 [Building a Visitor Tracker With Robyn  and React| Python](https://carlosmv.hashnode.dev/building-a-visitor-tracker-with-robyn-and-react-python)
- - 🚀 [4 Open Source Packet Analyzers To Explore](https://carlosmv.hashnode.dev/4-open-source-packet-analyzers-to-explore)
- - 💫 [Exploring Format: The New Feature of Ruff | Python](https://carlosmv.hashnode.dev/exploring-format-the-new-feature-of-ruff-python)
- - 💯 [Building A Visitor Tracker with Rails](https://carlosmv.hashnode.dev/building-a-visitor-tracker-with-rails)<!-- BLOGPOSTS:END -->
+ - 💫 [4 Open Source Packet Analyzers To Explore](https://carlosmv.hashnode.dev/4-open-source-packet-analyzers-to-explore)
+ - 💯 [Exploring Format: The New Feature of Ruff | Python](https://carlosmv.hashnode.dev/exploring-format-the-new-feature-of-ruff-python)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
