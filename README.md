@@ -20,11 +20,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Adding A Logging Middleware To A Robyn App | Python](https://carlosmv.hashnode.dev/adding-a-logging-middleware-to-a-robyn-app-python)
+ - 💫 [Get Started with TCPdump: Capture and Analyze Network Traffic](https://carlosmv.hashnode.dev/get-started-with-tcpdump-capture-and-analyze-network-traffic)
+ - 🚀 [Adding A Logging Middleware To A Robyn App | Python](https://carlosmv.hashnode.dev/adding-a-logging-middleware-to-a-robyn-app-python)
  - 🚀 [2023 Retrospective: A Year Of Personal Growth](https://carlosmv.hashnode.dev/2023-retrospective-a-year-of-personal-growth)
- - 🚀 [Adding A Rate Limiter Middleware To A Robyn Server | Python](https://carlosmv.hashnode.dev/adding-a-rate-limiter-middleware-to-a-robyn-server-python)
- - 💫 [Building a Visitor Tracker With Robyn  and React| Python](https://carlosmv.hashnode.dev/building-a-visitor-tracker-with-robyn-and-react-python)
- - 💯 [4 Open Source Packet Analyzers To Explore](https://carlosmv.hashnode.dev/4-open-source-packet-analyzers-to-explore)<!-- BLOGPOSTS:END -->
+ - 💫 [Adding A Rate Limiter Middleware To A Robyn Server | Python](https://carlosmv.hashnode.dev/adding-a-rate-limiter-middleware-to-a-robyn-server-python)
+ - 💯 [Building a Visitor Tracker With Robyn  and React| Python](https://carlosmv.hashnode.dev/building-a-visitor-tracker-with-robyn-and-react-python)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
