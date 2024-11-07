@@ -27,7 +27,7 @@
  - 💯 [2023 Retrospective: A Year Of Personal Growth](https://carlosmv.hashnode.dev/2023-retrospective-a-year-of-personal-growth)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/carlos-marcano-a2135a134)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-marcano-a2135a134/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Carlos_marcv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosmarcano2704@gmail.com)
 
