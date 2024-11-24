@@ -17,6 +17,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@carlosmarcano2704)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/carlosm27)
 
+### Support me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P316F2BA)
+
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
