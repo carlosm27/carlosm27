@@ -23,11 +23,11 @@
 
 ### 📚: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Creating Your First REST API with Elixir and Phoenix Framework](https://carlosmv.hashnode.dev/creating-your-first-rest-api-with-elixir-and-phoenix-framework)
+ - 💫 [How to Build a Reverse Proxy with Rust and Rama](https://carlosmv.hashnode.dev/how-to-build-a-reverse-proxy-with-rust-and-rama)
+ - 🚀 [Creating Your First REST API with Elixir and Phoenix Framework](https://carlosmv.hashnode.dev/creating-your-first-rest-api-with-elixir-and-phoenix-framework)
  - 🚀 [Building a Reverse Proxy with Pingora | Rust](https://carlosmv.hashnode.dev/building-a-reverse-proxy-with-pingora-rust)
- - 🚀 [Building a REST API with Ktor and Exposed | Kotlin](https://carlosmv.hashnode.dev/building-a-rest-api-with-ktor-and-exposed-kotlin)
- - 💫 [Analyzing Network Traffic With Wireshark](https://carlosmv.hashnode.dev/analyzing-network-traffic-with-wireshark)
- - 💯 [Get Started with TCPdump: Capture and Analyze Network Traffic](https://carlosmv.hashnode.dev/get-started-with-tcpdump-capture-and-analyze-network-traffic)<!-- BLOGPOSTS:END -->
+ - 💫 [Building a REST API with Ktor and Exposed | Kotlin](https://carlosmv.hashnode.dev/building-a-rest-api-with-ktor-and-exposed-kotlin)
+ - 💯 [Analyzing Network Traffic With Wireshark](https://carlosmv.hashnode.dev/analyzing-network-traffic-with-wireshark)<!-- BLOGPOSTS:END -->
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-marcano-a2135a134/)
